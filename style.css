@@ -44,22 +44,19 @@ h3 {
 blockquote {
     width: 400px;
     height: 100px;
-    padding: 2rem;
+    padding: 8px;
     background-color: #DFDDDD;
-    margin: 0 auto;
+    margin: 20px auto 0 auto;
     border-radius: 3px;
-}
-
-blockquote section {
-    text-align: left;
 }
 
 footer {
     background-color: yellow;
     height: 3rem;
     display: flex;
-  align-items: center;
-  justify-content: center;
+    align-items: center;
+    justify-content: center;
+    margin-top: 5px;
 }
 
 footer p {
